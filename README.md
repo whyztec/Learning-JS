@@ -1,2 +1,2 @@
-# JS-Exercises-Solved
-Some Cod3r JS exercises applied with HTML and CSS
+# Aprendendo Javascript
+Exercícios feitos em HTML, CSS e JavaScript
