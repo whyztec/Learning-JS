@@ -1,2 +1,9 @@
 # Aprendendo Javascript
-Exercícios feitos em HTML, CSS e JavaScript
+Some exercises in JavaScript
+
+### Using:
+HTML
+<br>
+CSS 
+<br>
+JavaScript
